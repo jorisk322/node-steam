@@ -8,6 +8,8 @@ lib-cov
 *.gz
 *.py
 
+*.ignore.js
+
 .c9revisions
 pids
 logs
@@ -19,3 +21,4 @@ npm-debug.log
 bot.js
 sentry
 servers
+
